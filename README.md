@@ -1,5 +1,5 @@
 # ConvNets from Scratch
-Architecture Iverview:        
+Architecture Overview:        
 
                         INPUT - CONV1 - RELU - CONV2 - RELU - MAXPOOL - FULLY_CONNECTED_LAYER - OUTPUT
 
